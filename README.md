@@ -265,4 +265,4 @@ MIT
 ## Acknowledgments
 
 - [Visual Crossing Weather API](https://www.visualcrossing.com/weather-api) for weather data
-- [Roadmap.sh](https://roadway.sh/projects/weather-api-wrapper-service) for the project idea
+- [Roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service) for the project idea
